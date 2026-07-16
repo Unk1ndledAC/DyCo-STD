@@ -1,0 +1,17 @@
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
+title: "DyCo-STD"
+authors:
+- family-names: Qu
+  given-names: Guanheng
+  orcid: https://orcid.org/0009-0007-9694-8945
+- family-names: Wang
+  given-names: Yongyan
+  orcid: https://orcid.org/0009-0001-8836-6343
+- family-names: Shen
+  given-names: Zuyan
+  orcid: https://orcid.org/0000-0002-2178-2385
+version: 1.0.1
+doi: 10.5281/zenodo.
+date-released: 2026-07-17
+url: "https://github.com/Unk1ndledAC/DyCo-STD"
