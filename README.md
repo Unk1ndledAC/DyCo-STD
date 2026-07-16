@@ -125,7 +125,7 @@ If you find this work helpful, please cite:
   author={Qu, Guanheng and Wang, Yongyan and Shen, Zuyan},
   booktitle={Proceedings of International Conference on Computing Systems and Intelligent Applications (ComSIA)},
   year={2026},
-  address={New Delhi, India},
+  address={Delhi, India},
   month={March},
   url={},
   doi = {},
