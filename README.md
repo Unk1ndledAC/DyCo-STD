@@ -1,4 +1,4 @@
-# **An Improved Algorithm for Small Target Detection in Remote Sensing Imagery Based on Dynamic Convolution**
+# **DyCo-STD: An Improved Algorithm for Small Target Detection in Remote Sensing Imagery Based on Dynamic Convolution**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -116,7 +116,7 @@ Matching the paper (Sec. 3.3):
 
 ## Citations
 
-If you find this work helpful, please cite:
+This paper has been accepted by [ComSIA 2026](https://comsia.in/prevconf2026.html). If you find this work helpful, please cite:
 
 ```bibtex
 @INPROCEEDINGS{qu2026dynamic,
