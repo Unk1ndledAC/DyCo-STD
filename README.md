@@ -130,18 +130,6 @@ This paper has been accepted by [ComSIA 2026](https://comsia.in/prevconf2026.htm
   doi       = {10.1007/978-3-032-30954-9_4}
 }
 ```
-or
-```
-@software{Qu_DyCo-STD_2026,
-  author = {Qu, Guanheng and Wang, Yongyan and Shen, Zuyan},
-  doi = {10.5281/zenodo.20051973},
-  month = jul,
-  title = {{DyCo-STD}},
-  url = {https://github.com/Unk1ndledAC/DyCo-STD},
-  version = {1.0.1},
-  year = {2026}
-}
-```
 
 ## License
 
