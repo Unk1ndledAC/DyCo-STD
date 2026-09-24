@@ -119,17 +119,15 @@ Matching the paper (Sec. 3.3):
 This paper has been accepted by [ComSIA 2026](https://comsia.in/prevconf2026.html). If you find this work helpful, please cite:
 
 ```bibtex
-@INPROCEEDINGS{qu2026dynamic,
-  title={An Improved Algorithm for Small Target Detection in Remote Sensing
-         Imagery Based on Dynamic Convolution},
-  author={Qu, Guanheng and Wang, Yongyan and Shen, Zuyan},
-  booktitle={Proceedings of International Conference on Computing Systems and Intelligent Applications (ComSIA)},
-  year={2026},
-  address={Delhi, India},
-  month={March},
-  url={},
-  doi = {},
-  note={Accepted for publication},
+@inproceedings{qu2027improved,
+  author    = {Qu, Guanheng and Wang, Yongyan and Shen, Zuyan},
+  title     = {An Improved Algorithm for Small Target Detection in Remote Sensing Imagery Based on Dynamic Convolution},
+  booktitle = {Proceedings of International Conference on Computing Systems and Intelligent Applications (ComSIA)},
+  year      = {2026},
+  pages     = {35--45},
+  publisher = {Springer},
+  isbn      = {978-3-032-30954-9},
+  doi       = {10.1007/978-3-032-30954-9_4}
 }
 ```
 or
